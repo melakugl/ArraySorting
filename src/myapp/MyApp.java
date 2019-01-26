@@ -19,6 +19,7 @@ public class MyApp {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null, "Hello world is a beautiful thing to do in programming!");
+        System.out.println ("She is wonderfully made!");
     }
     
 }
